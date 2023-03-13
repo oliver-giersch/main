@@ -1,8 +1,11 @@
 [package]
 name = "slicewrap"
 version = "0.1.0"
+authors = ["Oliver Giersch"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/oliver-giersch/slicewrap.git"
+categories = ["macro", "newtype", "unsized"]
 edition = "2021"
-
 
 [features]
 default = ["alloc"]
